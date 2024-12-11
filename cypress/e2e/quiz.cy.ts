@@ -1,5 +1,5 @@
 import { mockState } from '../support/utils/helpers';
-import { Question } from '../support/types';
+// import { Question } from '../support/types';
 
 describe('Tech Quiz Game Cycle', () => {
   context('Game Setup', () => {
